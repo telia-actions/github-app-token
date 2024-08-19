@@ -1,3 +1,9 @@
+# Archived repository
+
+This fork is no longer being used or maintained. Users within telia-company can find a corresponding action in the "fft-actions" repository.
+
+----
+
 # GitHub App Token
 
 This [JavaScript GitHub Action](https://help.github.com/en/actions/building-actions/about-actions#javascript-actions) can be used to impersonate a GitHub App when `secrets.GITHUB_TOKEN`'s limitations are too restrictive and a personal access token is not suitable.
